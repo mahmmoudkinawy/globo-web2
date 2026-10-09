@@ -1,6 +1,6 @@
 # Globomantics Code Review Assistant 
 
-> Don't forget to clone the [VS Code Starter Workspace!](https://github.com/github/vscode-codeql-starter/)
+> Don't forget to clone the [VS Code Starter Workspace!](https://github.com/github/vscode-codeql-starter/).
 
 A deliberately vulnerable application for teaching GitHub Advanced Security (GHAS) and CodeQL analysis.
 
