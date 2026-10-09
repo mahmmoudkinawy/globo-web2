@@ -12,6 +12,7 @@
     "codeql:custom": "codeql database create db --language=javascript && codeql database analyze db ./.github/codeql/javascript-custom-queries.qls --format=sarif-latest --output=./codeql-custom-results.sarif"
   },
   "dependencies": {
+    "react-server-dom-webpack": "19.0.0",
     "bcrypt": "^5.1.1",
     "chalk": "2.4.2",
     "crypto-js": "3.1.9-1",
